@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    border: 1px solid #000;
+    width: 320px;
+    flex-direction: column;
+    margin: auto;
+    height: 500px;
+    gap: 12;
+
+}
+
+.caixa {
+    height: 40px;
+}
+
+#button {
+    height: 40px;
+    background-color: blue;
+    color: #fff;
+}
